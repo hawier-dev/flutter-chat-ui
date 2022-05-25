@@ -1,5 +1,3 @@
-import 'package:audio_wave/audio_wave.dart';
-import 'package:chat_ui/components/avatar_with_status.dart';
 import 'package:chat_ui/constants.dart';
 import 'package:chat_ui/models/message.dart';
 import 'package:chat_ui/models/user.dart';

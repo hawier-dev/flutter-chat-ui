@@ -36,7 +36,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   date_time_format: ^2.0.1
   google_fonts: ^2.3.2
-  audio_wave: ^0.1.4
 
 dev_dependencies:
   flutter_test:
